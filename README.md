@@ -1,18 +1,32 @@
-## Getting Started
+# 🏦 Banking System Project
+#### Welcome to the Banking System project!
+This Java-based application allows you to manage user accounts, perform transactions, and ensure the security of financial data.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 🚀 Getting Started
+Follow these steps to set up and run the project on your local machine:
 
-## Folder Structure
+**1. Clone the Repository:**
+```
+git clone https://github.com/YourUsername/YourBankingSystemRepo.git
+```
+**2. Compile the Java Code:**
+```
+javac *.java
+```
+**3. Run the Application:**
+```
+java BankingApp
+```
 
-The workspace contains two folders by default, where:
+## 📦 Features
+* 📝 User Registration & Login
+* 🏦 Account Creation
+* 💸 Debit and Credit Transactions
+* 🔄 Money Transfer Between Accounts
+* 📊 Balance Inquiry
+* 🔒 Robust Security Measures
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🌐 Technologies Used
+* ☕ Java
+* 🔌 JDBC (Java Database Connectivity)
+* 🗄️ MySQL (or your preferred database system)
